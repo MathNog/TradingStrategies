@@ -1,4 +1,4 @@
-# TradingEstrategies
+# TradingStrategies
 
 ## Author: Matheus Nogueira
 
@@ -6,6 +6,7 @@
   - Email: matnogueira@gmail.com
   - [Linkedin](https://www.linkedin.com/in/matheus-nogueira-b127a4224/)
 
+## Brief description:
 
 Repository with trading strategies implementation for my own study
 
